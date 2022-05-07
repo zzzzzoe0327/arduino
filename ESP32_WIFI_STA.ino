@@ -1,6 +1,6 @@
 #include<WiFi.h>
 
-const char ssid[]="zoe"; //修改為你家的WiFi網路名稱
+const char ssid[]="Zoe"; //修改為你家的WiFi網路名稱
 const char pwd[]="03270327"; //修改為你家的WiFi密碼
 
 void setup() {
